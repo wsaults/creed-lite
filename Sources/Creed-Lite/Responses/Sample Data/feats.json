@@ -78,7 +78,7 @@
         {
             "id": "550e8400-e29b-41d4-a716-446655440005",
             "name": "5 min 1,2,3 Up Downs",
-            "description": "Hold a plank position for as long as possible within 5 minutes.",
+            "description": "Complete as many V-Ups within 5 minutes.",
             "image_url": "https://ladderteams.imgix.net/movement-thumbnails/crews-control-2023-11/6.%201%202%203%20Up%20Down.00_00_04_00.Still001.jpg",
             "video_url": "https://ladder-bootcamp-media-prod.s3.amazonaws.com/movement-videos/crews-control-2023-11/6.%201%202%203%20Up%20Down.mp4",
             "completion_count": 10,
@@ -97,7 +97,7 @@
                 }
             ],
             "duration_seconds": 300,
-            "movement": "Plank"
+            "movement": "V-Ups"
         }
     ]
 }
